@@ -6,6 +6,8 @@ public class DiceRoll {
 	
 	public static void main(String [] args) {
 		
+		//scanner printing some stuff
+		
 	Scanner myScanner = new Scanner(System.in);
 	
 	System.out.println("Hello, Let's roll a dice. Are you feeling lucky?");
